@@ -1,6 +1,6 @@
 Kafka Hands-on
 
-KAFKA_BROKER_ID
+# KAFKA_BROKER_ID
     클러스터 각 노드에 할당할 브로커의 아이디(중복불가) 
 # KAFKA_ZOOKEEPER_CONNECT 
     클러스터 구성에 사용할 주키퍼 호스트 정보
